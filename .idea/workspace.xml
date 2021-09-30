@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3c57165-19ea-4538-81e9-7b7dd254a9e5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1yrClqOv6Ea68VObv2GOd33Nc0j" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Docker.it3prgapp">
+    <configuration name="it3prgapp" type="PythonConfigurationType" factoryName="Python">
+      <module name="it3prgapp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/script.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="it3prgapp" type="docker-deploy" factoryName="dockerfile" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="buildCliOptions" value="" />
+          <option name="command" value="" />
+          <option name="containerName" value="" />
+          <option name="entrypoint" value="" />
+          <option name="imageTag" value="it3prgapp" />
+          <option name="portBindings">
+            <list>
+              <DockerPortBindingImpl>
+                <option name="containerPort" value="5000" />
+                <option name="hostPort" value="80" />
+              </DockerPortBindingImpl>
+            </list>
+          </option>
+          <option name="commandLineOptions" value="" />
+          <option name="sourceFilePath" value="Dockerfile" />
+          <option name="volumeBindings">
+            <list>
+              <DockerVolumeBindingImpl>
+                <option name="containerPath" value="/flask" />
+                <option name="hostPath" value="$PROJECT_DIR$" />
+              </DockerVolumeBindingImpl>
+            </list>
+          </option>
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Docker.it3prgapp" />
+      <item itemvalue="Python.it3prgapp" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Docker" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Docker" type="9fbbdea:ServiceModel$ServiceNode" />
+                <item name="Containers" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3c57165-19ea-4538-81e9-7b7dd254a9e5" name="Default Changelist" comment="" />
+      <created>1633000473835</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633000473835</updated>
+      <workItem from="1633000476093" duration="1581000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="581" y="206" width="802" height="675" key="#Docker" timestamp="1633000574516">
+      <screen x="0" y="28" width="1920" height="1024" />
+    </state>
+    <state x="581" y="206" width="802" height="675" key="#Docker/0.28.1920.1024@0.28.1920.1024" timestamp="1633000574516" />
+    <state x="444" y="203" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1633000986623">
+      <screen x="0" y="28" width="1920" height="1024" />
+    </state>
+    <state x="444" y="203" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.28.1920.1024@0.28.1920.1024" timestamp="1633000986623" />
+    <state x="769" y="288" width="426" height="511" key="FileChooserDialogImpl" timestamp="1633000771298">
+      <screen x="0" y="28" width="1920" height="1024" />
+    </state>
+    <state x="769" y="288" width="426" height="511" key="FileChooserDialogImpl/0.28.1920.1024@0.28.1920.1024" timestamp="1633000771298" />
+    <state x="475" y="180" key="SettingsEditor" timestamp="1633001432581">
+      <screen x="0" y="28" width="1920" height="1024" />
+    </state>
+    <state x="475" y="180" key="SettingsEditor/0.28.1920.1024@0.28.1920.1024" timestamp="1633001432581" />
+    <state x="730" y="288" width="503" height="512" key="com.intellij.docker.deployment.ui.DockerPortBindingsField.v173.dialogSize" timestamp="1633000624560">
+      <screen x="0" y="28" width="1920" height="1024" />
+    </state>
+    <state x="730" y="288" width="503" height="512" key="com.intellij.docker.deployment.ui.DockerPortBindingsField.v173.dialogSize/0.28.1920.1024@0.28.1920.1024" timestamp="1633000624560" />
+    <state x="730" y="288" width="503" height="512" key="com.intellij.docker.deployment.ui.DockerVolumeBindingsField.v173.dialogSize" timestamp="1633000778419">
+      <screen x="0" y="28" width="1920" height="1024" />
+    </state>
+    <state x="730" y="288" width="503" height="512" key="com.intellij.docker.deployment.ui.DockerVolumeBindingsField.v173.dialogSize/0.28.1920.1024@0.28.1920.1024" timestamp="1633000778419" />
+  </component>
+</project>
